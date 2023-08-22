@@ -1,3 +1,4 @@
+![Screenshot_1690742958](https://github.com/ekeskn/geolocation/assets/96025028/b86542a3-cf01-4311-b3b9-48e4765dca9a)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
